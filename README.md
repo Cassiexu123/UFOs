@@ -12,6 +12,7 @@ To be specific, we use HTML to create webpages that includes dynamic table with 
 
 ### Filter Search:
 ![](static/images/filter.PNG)
+
 We can entered all the criteria that we want to know into the blank box below to efficiently get information about UFOs from websites.
 
 ## Summary:
