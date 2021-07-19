@@ -5,8 +5,13 @@ To be specific, we use HTML to create webpages that includes dynamic table with 
 
 ## Results:
 ### Webpage Overview:
+![](static/images/Website_image.png)
+
 ### UFO Introduction:
+![](static/images/intr.png)
+
 ### Filter Search:
+![](static/images/filter.png)
 We can entered all the criteria that we want to know into the blank box below to efficiently get information about UFOs from websites.
 
 ## Summary:
