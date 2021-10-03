@@ -17,4 +17,5 @@ We can entered all the criteria that we want to know into the blank box below to
 
 ## Summary:
 One drawback is the "Filter Table" button is next to "Enter Shapte" filter, looks like crowded in that area.
-Two additional recomendations are 1).Add a "clear button" below to the "Filter Table" button to help us clear all the criteria for the next time filter. 2).Add a link of video about what public see of the UFOs and their views.
+Two additional recomendations are 
+- Add a "clear button" below to the "Filter Table" button to help us clear all the criteria for the next time filter. - Add a link of video about what public see of the UFOs and their views.
